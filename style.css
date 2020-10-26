@@ -4,8 +4,12 @@ h1{
 }
 
 #Rom{
-    background-color: rgba(225, 225, 245, 0.8);
+    background-color: rgb(255,20,147);
 }
+#Luc{
+    background-color: #dbbba3;
+}
+
 .title{
     color: green; 
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
