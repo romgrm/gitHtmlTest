@@ -9,6 +9,22 @@ h1{
 #Luc{
     background-color: #dbbba3;
 }
+#Trystan {
+    background: linear-gradient(35deg, rgb(37, 95, 221), rgb(60, 44, 209));
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 5em;
+    border-radius: 50px;
+    color: white;
+    text-align: center;
+}
+
+#Trystan h2  {
+    color: white;
+}
+
+#Trystan p {
+    color: white;
+}
 
 .title{
     color: green; 
