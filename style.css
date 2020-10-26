@@ -20,3 +20,18 @@ h1{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: green; 
 }
+
+#kiki{
+    background-color: pink;
+    font-family: fantasy;
+}
+
+.moi{font-size: 15px;
+    font-family: fantasy;
+    color: rgb(201, 53, 78)
+}
+.para{
+    font-size: 15px;
+    font-family: fantasy;
+    color: rgb(201, 53, 78)
+}
